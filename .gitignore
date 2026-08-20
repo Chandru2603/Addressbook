@@ -1,0 +1,18 @@
+# Executable
+addressbook
+
+# Data file
+address_book.dat
+
+# ZIP backup
+AddressBook_Project.zip
+
+# Object files
+*.o
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
